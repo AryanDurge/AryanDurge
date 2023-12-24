@@ -16,6 +16,15 @@ Welcome to my GitHub playground, where I turn ideas into reality through code an
 * 🤝  I'm open to collaborating on Machine Learning Projects
 * ⚡  I love to travel and spend time with family
 
+
+## 🏆 Achievements
+
+- Expertise in cloud Computing(AWS)
+
+## 📚 Education
+
+- **Bachelor of Engineering degree** in Information & Technology from Chaitanya Bharathi Institue of technology
+
 ### Skills
 
 
@@ -27,4 +36,9 @@ Welcome to my GitHub playground, where I turn ideas into reality through code an
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/AryanDurge" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/aryan-durge-14893824b/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
+
+===============================================================================
+
+
+
 ---
