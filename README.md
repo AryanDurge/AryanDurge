@@ -9,7 +9,7 @@ Web Developer
 Welcome to my GitHub playground, where I turn ideas into reality through code and creativity.
 
 * 🌍  I'm based in Hyderabad, India
-* 🖥️  See my portfolio at [MyPortfolio](http://https://aryandurge.netlify.app/)
+* 🖥️  See my portfolio at [MyPortfolio](https://aryandurgeresume.netlify.app)
 * ✉️  You can contact me at [durgearyan9@gmail.com](mailto:durgearyan9@gmail.com)
 * 🚀  I'm currently working on [MERN stack Projects](http://github.com/AryanDurge)
 * 🧠  I'm learning Web Development, Machine Learning, AWS cloud
